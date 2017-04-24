@@ -11,7 +11,9 @@
     "url": "git+https://github.com/mattiaerre/jest-do-it.git"
   },
   "keywords": [
-    "jest"
+    "jest",
+    "testing",
+    "snapshot-testing"
   ],
   "author": {
     "name": "Mattia Richetto",
