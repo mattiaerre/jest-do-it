@@ -1,7 +1,7 @@
 {
   "name": "jest-do-it",
   "version": "1.0.0",
-  "description": "Jest all the things; what I learned about it and why I love it!",
+  "description": "A thing said or done for amusement; a joke.",
   "main": "index.js",
   "scripts": {
     "test": "jest"

@@ -1,3 +1,7 @@
 # jest-do-it
 
-Jest all the things; what I learned about it and why I love it!
+A thing said or done for amusement; a joke.
+
+## Resources
+
+- [https://facebook.github.io/jest/docs/api.html](https://facebook.github.io/jest/docs/api.html)
