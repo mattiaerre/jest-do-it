@@ -1,20 +1,37 @@
 {
   "name": "jest-do-it",
   "version": "1.0.0",
-  "description": "",
+  "description": "Jest all the things; what I learned about it and why I love it!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mattiaerre/jest-do-it.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "jest"
+  ],
+  "author": {
+    "name": "Mattia Richetto",
+    "email": "mattia.richetto@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mattiaerre/jest-do-it/issues"
   },
-  "homepage": "https://github.com/mattiaerre/jest-do-it#readme"
+  "homepage": "https://github.com/mattiaerre/jest-do-it#readme",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "jest": "^19.0.2"
+  }
 }
