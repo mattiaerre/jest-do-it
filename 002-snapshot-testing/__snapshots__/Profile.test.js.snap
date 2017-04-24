@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Profile /> 1`] = `
+<div
+  className="profile-container"
+>
+  <h1>
+    @mattiaerre
+  </h1>
+</div>
+`;
