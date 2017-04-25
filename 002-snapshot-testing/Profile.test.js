@@ -8,7 +8,6 @@ test('<Profile />', () => {
     username: '@mattiaerre',
     bio: 'Agile developer at OpenTable, marathon runner, sports fan and vegetarian living in San Francisco #FOB'
   };
-
   const component = renderer.create(
     <Profile {...props} />
   );
