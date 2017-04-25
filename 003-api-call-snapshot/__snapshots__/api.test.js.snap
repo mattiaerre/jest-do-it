@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Darth Vader 1`] = `
+Object {
+  "birth_year": "41.9BBY",
+  "created": "2014-12-10T15:18:20.704000Z",
+  "edited": "2014-12-20T21:17:50.313000Z",
+  "eye_color": "yellow",
+  "films": Array [
+    "http://swapi.co/api/films/2/",
+    "http://swapi.co/api/films/6/",
+    "http://swapi.co/api/films/3/",
+    "http://swapi.co/api/films/1/",
+  ],
+  "gender": "male",
+  "hair_color": "none",
+  "height": "202",
+  "homeworld": "http://swapi.co/api/planets/1/",
+  "mass": "136",
+  "name": "Darth Vader",
+  "skin_color": "white",
+  "species": Array [
+    "http://swapi.co/api/species/1/",
+  ],
+  "starships": Array [
+    "http://swapi.co/api/starships/13/",
+  ],
+  "url": "http://swapi.co/api/people/4/",
+  "vehicles": Array [],
+}
+`;
+
+exports[`Luke Skywalker 1`] = `
+Object {
+  "birth_year": "19BBY",
+  "created": "2014-12-09T13:50:51.644000Z",
+  "edited": "2014-12-20T21:17:56.891000Z",
+  "eye_color": "blue",
+  "films": Array [
+    "http://swapi.co/api/films/2/",
+    "http://swapi.co/api/films/6/",
+    "http://swapi.co/api/films/3/",
+    "http://swapi.co/api/films/1/",
+    "http://swapi.co/api/films/7/",
+  ],
+  "gender": "male",
+  "hair_color": "blond",
+  "height": "172",
+  "homeworld": "http://swapi.co/api/planets/1/",
+  "mass": "77",
+  "name": "Luke Skywalker",
+  "skin_color": "fair",
+  "species": Array [
+    "http://swapi.co/api/species/1/",
+  ],
+  "starships": Array [
+    "http://swapi.co/api/starships/12/",
+    "http://swapi.co/api/starships/22/",
+  ],
+  "url": "http://swapi.co/api/people/1/",
+  "vehicles": Array [
+    "http://swapi.co/api/vehicles/14/",
+    "http://swapi.co/api/vehicles/30/",
+  ],
+}
+`;

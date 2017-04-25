@@ -3,5 +3,8 @@
     "latest",
     "react",
     "stage-3"
+  ],
+  "plugins": [
+    "transform-runtime"
   ]
 }
