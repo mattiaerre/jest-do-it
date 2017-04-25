@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pink-pineapple registry info 1`] = `
+Object {
+  "registry": Object {
+    "baseUrl": "https://pink-pineapple.herokuapp.com/",
+    "type": "oc-registry",
+    "version": "0.36.25",
+  },
+}
+`;

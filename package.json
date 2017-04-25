@@ -36,6 +36,8 @@
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.10.3",
     "jest": "^19.0.2",
+    "lokka": "^1.7.0",
+    "lokka-transport-http": "^1.6.1",
     "node-fetch": "^1.6.3",
     "prop-types": "^15.5.8",
     "react": "^15.5.4",

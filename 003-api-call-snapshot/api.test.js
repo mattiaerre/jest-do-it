@@ -1,4 +1,4 @@
-const api = require('./api');
+const getById = require('./api');
 
 const scenarios = [
   {
@@ -13,7 +13,7 @@ const scenarios = [
 
 scenarios.forEach((scenario) => {
   test(scenario.name, async () => {
-    const data = await api(scenario.id);
+    const data = await getById(scenario.id);
     expect(data).toMatchSnapshot();
   });
 });

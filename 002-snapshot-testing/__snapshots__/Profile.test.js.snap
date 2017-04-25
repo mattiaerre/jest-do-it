@@ -5,7 +5,13 @@ exports[`<Profile /> 1`] = `
   className="profile-container"
 >
   <h1>
-    @mattiaerre
+    Mattia Richetto
   </h1>
+  <h2>
+    @mattiaerre
+  </h2>
+  <p>
+    Agile developer at OpenTable, marathon runner, sports fan and vegetarian living in San Francisco #FOB
+  </p>
 </div>
 `;

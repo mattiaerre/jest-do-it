@@ -4,7 +4,9 @@ import Profile from './Profile';
 
 test('<Profile />', () => {
   const props = {
-    username: '@mattiaerre'
+    name: 'Mattia Richetto',
+    username: '@mattiaerre',
+    bio: 'Agile developer at OpenTable, marathon runner, sports fan and vegetarian living in San Francisco #FOB'
   };
 
   const component = renderer.create(
