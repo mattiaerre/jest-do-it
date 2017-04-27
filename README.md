@@ -14,6 +14,10 @@ yarn test -- --watch
 yarn test -- --coverage
 ```
 
+## Want to have moar examples?
+
+Jest (Ok, I'll stop ...) open a [new issue](https://github.com/mattiaerre/jest-do-it/issues/new)!
+
 ## Resources
 
 - [https://facebook.github.io/jest/docs/api.html](https://facebook.github.io/jest/docs/api.html)
