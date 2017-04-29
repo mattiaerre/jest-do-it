@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Profile /> 1`] = `
+exports[`<Profile /> to match snapshot 1`] = `
 <div
   className="profile-container"
 >
@@ -11,7 +11,12 @@ exports[`<Profile /> 1`] = `
     @mattiaerre
   </h2>
   <p>
-    Agile developer at OpenTable, marathon runner, sports fan and vegetarian living in San Francisco #FOB
+    Agile developer at OpenTable, marathon runner, sports fan and vegan living in San Francisco #FOB
   </p>
+  <button
+    onClick={[Function]}
+  >
+    Click me!
+  </button>
 </div>
 `;
