@@ -3,9 +3,9 @@
 exports[`pink-pineapple registry info 1`] = `
 Object {
   "registry": Object {
-    "baseUrl": "https://pink-pineapple.herokuapp.com/",
+    "href": "https://pink-pineapple.herokuapp.com/",
+    "ocVersion": "0.37.4",
     "type": "oc-registry",
-    "version": "0.36.27",
   },
 }
 `;

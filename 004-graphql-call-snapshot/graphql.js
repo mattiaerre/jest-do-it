@@ -8,8 +8,8 @@ const client = new Lokka({
 const getRegistryInfo = () => { // eslint-disable-line arrow-body-style
   return client.query(`{
     registry {
-      baseUrl
-      version
+      href
+      ocVersion
       type
     }
   }`)
