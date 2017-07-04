@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`current-weather currentWeather() 1`] = `
+Object {
+  "temperature": "25.17 °C",
+}
+`;
+
+exports[`current-weather fetch 1`] = `
+Array [
+  Array [
+    "http://api.openweathermap.org/data/2.5/weather?q=London&appid=appid&units=metric",
+  ],
+]
+`;
