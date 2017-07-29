@@ -38,6 +38,7 @@
     "eslint-plugin-react": "^7.0.1",
     "jest": "^20.0.4",
     "jest-fetch-mock": "^1.1.1",
+    "jest-mock-now": "^1.1.1",
     "lokka": "^1.7.0",
     "lokka-transport-http": "^1.6.1",
     "node-fetch": "^1.7.1",
