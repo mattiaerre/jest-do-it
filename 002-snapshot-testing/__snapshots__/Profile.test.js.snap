@@ -11,7 +11,7 @@ exports[`<Profile /> to match snapshot 1`] = `
     @mattiaerre
   </h2>
   <p>
-    Agile developer at OpenTable, marathon runner, sports fan and vegan living in San Francisco #FOB
+    Agile developer at OpenTable, marathon runner, sports fan and vegan living in San Francisco
   </p>
   <button
     onClick={[Function]}
