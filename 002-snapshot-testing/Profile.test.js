@@ -1,5 +1,5 @@
 import React from 'react';
-import renderer from 'react-test-renderer';
+import { create } from 'react-test-renderer';
 import { shallow } from 'enzyme';
 import Profile from './Profile';
 
@@ -11,7 +11,7 @@ const props = {
 };
 
 test('<Profile /> to match snapshot', () => {
-  const component = renderer.create(
+  const component = create(
     <Profile {...props} />
   );
   const tree = component.toJSON();
